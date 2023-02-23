@@ -1,2 +1,2 @@
 # Pyspark-tutorials
-TEarnings of my pyspark usage and experience
+This repository is mainly about my Learnings of  pyspark usage and experience
